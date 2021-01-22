@@ -29,6 +29,7 @@ body {
     font-family: "Montserrat", sans-serif;
     overflow-x: hidden;
     color: darkgoldenrod;
+    background-color: black;
     
 }
 
@@ -36,7 +37,16 @@ body {
 button{
     margin-left: 520px;
     margin-top: 80px;
+    background-color:darkcyan;
+    border-radius: 14px;
+    width: 100px;
+    height: 37px;
+    font-family: 'comic sans MS';
+    font-weight: bold;
+    font-size: 17px;
 }
+
+
 
 
 a {
@@ -59,11 +69,11 @@ a {
     max-width: 150rem;
     margin: 0 auto;
     padding: 2rem;
-    background-color: #252525;
+    background-color:black;
 }
 
 .customers{
-    background-color: #252525;
+    background-color: black;
 }
 
 /* Header */
@@ -179,7 +189,7 @@ img{
     left: 0;
     width: 50%;
     height: 100vh;
-    background-color: #252525;
+    background-color: black;
     padding: 4.4rem;
     display: flex;
     flex-direction: column;
@@ -280,7 +290,7 @@ img{
 /* Offers */
 .offers {
     width: 100%;
-    background-color: #252525;
+    background-color: black;
     padding-bottom: 10rem;
 }
 
@@ -330,7 +340,7 @@ img{
 .two-columns-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background-color: #252525;
+    background-color: black;
 }
 
 .tart,
@@ -390,7 +400,7 @@ img{
 .team {
     width: 100%;
     margin-top: 10rem;
-    background-color: #252525;
+    background-color:black;
     padding-bottom: 10rem;
 }
 
